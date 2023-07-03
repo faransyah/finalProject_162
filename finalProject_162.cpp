@@ -41,7 +41,7 @@ public:
 		int r; int setX();
 		return 2 * 3, 14 * r;
 	}
-
+	
 };
 
 class Persegipanjang :public bidangDatar { 
